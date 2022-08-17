@@ -11,7 +11,7 @@ public class BankBookController {
 	@Autowired
 	private BankBookService bankBookService;
 	
-	@RequestMapping(value = "delete", method = Requestmethod)
+//	@RequestMapping(value = "delete", method = Requestmethod)
 	
 	
 
