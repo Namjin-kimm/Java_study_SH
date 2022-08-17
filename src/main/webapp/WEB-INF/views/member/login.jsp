@@ -11,7 +11,7 @@
 	<form action="./login.iu" name="id" method="post">
         <div class="container">
             ID<input type="text" name="userName">
-            PW<input type="password" name="passWord">
+            PW<input type="password" name="password">
             <input type="submit" value="로그인">
         </div>
         <div>
